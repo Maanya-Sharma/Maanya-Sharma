@@ -39,8 +39,8 @@ Here are my main repositories:
 ---
 
 ## 🔹 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/username/)  
-- Email: your.email@example.com  
+- LinkedIn: **www.linkedin.com/in/maanya-sharma-5347ba32b** 
+- Email: maanya8sharma@gmail.com
 
 ---
 
