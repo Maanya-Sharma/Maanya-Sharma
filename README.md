@@ -26,7 +26,7 @@ Here are my main repositories:
 - [IoT-Starter-Kits](https://github.com/username/IoT-Starter-Kits) – Beginner IoT projects with cloud integration  
 - [AI-Basics](https://github.com/username/AI-Basics) – Python ML & AI starter projects  
 
-*(Replace links with your actual repos)*
+
 
 ---
 
