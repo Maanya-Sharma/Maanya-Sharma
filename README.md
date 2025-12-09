@@ -22,10 +22,6 @@ I focus on combining **Embedded Systems, IoT, and AI** to create innovative proj
 ## 🔹 GitHub Highlights
 Here are my main repositories:
 - [C-and-Data-Structures](https://github.com/username/C-and-Data-Structures) – Foundational C programming & DSA projects  
-- [Arduino-Projects](https://github.com/username/Arduino-Projects) – Embedded projects like traffic light, digital thermometer  
-- [IoT-Starter-Kits](https://github.com/username/IoT-Starter-Kits) – Beginner IoT projects with cloud integration  
-- [AI-Basics](https://github.com/username/AI-Basics) – Python ML & AI starter projects  
-
 
 
 ---
