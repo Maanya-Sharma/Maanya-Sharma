@@ -22,7 +22,8 @@ I focus on combining **Embedded Systems, IoT, and AI** to create innovative proj
 ## 🔹 GitHub Highlights
 Here are my main repositories:
 - [C-and-Data-Structures](https://github.com/Maanya-Sharma/C-and-Data-Structures) – Foundational C programming & DSA projects
-- https://github.com/Maanya-Sharma/Smart-Traffic-Light-Controller-AI-Ready 
+- https://github.com/Maanya-Sharma/Smart-Traffic-Light-Controller-AI-Ready
+- https://github.com/Maanya-Sharma/Wearable-Health-Monitoring-Device
 
 
 ---
