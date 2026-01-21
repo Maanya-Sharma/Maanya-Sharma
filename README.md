@@ -24,6 +24,7 @@ Here are my main repositories:
 - [C-and-Data-Structures](https://github.com/Maanya-Sharma/C-and-Data-Structures) – Foundational C programming & DSA projects
 - https://github.com/Maanya-Sharma/Smart-Traffic-Light-Controller-AI-Ready
 - https://github.com/Maanya-Sharma/Wearable-Health-Monitoring-Device
+- https://github.com/Maanya-Sharma/Smart-Home-Sensor-Hub
 
 
 ---
